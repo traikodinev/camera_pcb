@@ -515,12 +515,81 @@ Each pin can provide or receive a maximum of 40 mA and has an internal pull-up r
 <hole x="0" y="-4.4958" drill="1.8034"/>
 <hole x="0" y="4.4958" drill="1.8034"/>
 </package>
+<package name="B3F-10XX" urn="urn:adsk.eagle:footprint:27476/1" library_version="3">
+<description>&lt;b&gt;OMRON SWITCH&lt;/b&gt;</description>
+<wire x1="3.302" y1="-0.762" x2="3.048" y2="-0.762" width="0.1524" layer="21"/>
+<wire x1="3.302" y1="-0.762" x2="3.302" y2="0.762" width="0.1524" layer="21"/>
+<wire x1="3.048" y1="0.762" x2="3.302" y2="0.762" width="0.1524" layer="21"/>
+<wire x1="3.048" y1="1.016" x2="3.048" y2="2.54" width="0.1524" layer="51"/>
+<wire x1="-3.302" y1="0.762" x2="-3.048" y2="0.762" width="0.1524" layer="21"/>
+<wire x1="-3.302" y1="0.762" x2="-3.302" y2="-0.762" width="0.1524" layer="21"/>
+<wire x1="-3.048" y1="-0.762" x2="-3.302" y2="-0.762" width="0.1524" layer="21"/>
+<wire x1="3.048" y1="2.54" x2="2.54" y2="3.048" width="0.1524" layer="51"/>
+<wire x1="2.54" y1="-3.048" x2="3.048" y2="-2.54" width="0.1524" layer="51"/>
+<wire x1="3.048" y1="-2.54" x2="3.048" y2="-1.016" width="0.1524" layer="51"/>
+<wire x1="-2.54" y1="3.048" x2="-3.048" y2="2.54" width="0.1524" layer="51"/>
+<wire x1="-3.048" y1="2.54" x2="-3.048" y2="1.016" width="0.1524" layer="51"/>
+<wire x1="-2.54" y1="-3.048" x2="-3.048" y2="-2.54" width="0.1524" layer="51"/>
+<wire x1="-3.048" y1="-2.54" x2="-3.048" y2="-1.016" width="0.1524" layer="51"/>
+<wire x1="-1.27" y1="1.27" x2="-1.27" y2="-1.27" width="0.0508" layer="51"/>
+<wire x1="1.27" y1="-1.27" x2="-1.27" y2="-1.27" width="0.0508" layer="51"/>
+<wire x1="1.27" y1="-1.27" x2="1.27" y2="1.27" width="0.0508" layer="51"/>
+<wire x1="-1.27" y1="1.27" x2="1.27" y2="1.27" width="0.0508" layer="51"/>
+<wire x1="-1.27" y1="3.048" x2="-1.27" y2="2.794" width="0.0508" layer="21"/>
+<wire x1="1.27" y1="2.794" x2="-1.27" y2="2.794" width="0.0508" layer="21"/>
+<wire x1="1.27" y1="2.794" x2="1.27" y2="3.048" width="0.0508" layer="21"/>
+<wire x1="1.143" y1="-2.794" x2="-1.27" y2="-2.794" width="0.0508" layer="21"/>
+<wire x1="1.143" y1="-2.794" x2="1.143" y2="-3.048" width="0.0508" layer="21"/>
+<wire x1="-1.27" y1="-2.794" x2="-1.27" y2="-3.048" width="0.0508" layer="21"/>
+<wire x1="2.54" y1="-3.048" x2="2.159" y2="-3.048" width="0.1524" layer="51"/>
+<wire x1="-2.54" y1="-3.048" x2="-2.159" y2="-3.048" width="0.1524" layer="51"/>
+<wire x1="-2.159" y1="-3.048" x2="-1.27" y2="-3.048" width="0.1524" layer="21"/>
+<wire x1="-2.54" y1="3.048" x2="-2.159" y2="3.048" width="0.1524" layer="51"/>
+<wire x1="2.54" y1="3.048" x2="2.159" y2="3.048" width="0.1524" layer="51"/>
+<wire x1="2.159" y1="3.048" x2="1.27" y2="3.048" width="0.1524" layer="21"/>
+<wire x1="1.27" y1="3.048" x2="-1.27" y2="3.048" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="3.048" x2="-2.159" y2="3.048" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="-3.048" x2="1.143" y2="-3.048" width="0.1524" layer="21"/>
+<wire x1="1.143" y1="-3.048" x2="2.159" y2="-3.048" width="0.1524" layer="21"/>
+<wire x1="3.048" y1="-0.762" x2="3.048" y2="-1.016" width="0.1524" layer="21"/>
+<wire x1="3.048" y1="0.762" x2="3.048" y2="1.016" width="0.1524" layer="21"/>
+<wire x1="-3.048" y1="-0.762" x2="-3.048" y2="-1.016" width="0.1524" layer="21"/>
+<wire x1="-3.048" y1="0.762" x2="-3.048" y2="1.016" width="0.1524" layer="21"/>
+<wire x1="-1.27" y1="-2.159" x2="1.27" y2="-2.159" width="0.1524" layer="51"/>
+<wire x1="1.27" y1="2.286" x2="-1.27" y2="2.286" width="0.1524" layer="51"/>
+<wire x1="-2.413" y1="1.27" x2="-2.413" y2="0.508" width="0.1524" layer="51"/>
+<wire x1="-2.413" y1="-0.508" x2="-2.413" y2="-1.27" width="0.1524" layer="51"/>
+<wire x1="-2.413" y1="0.508" x2="-2.159" y2="-0.381" width="0.1524" layer="51"/>
+<circle x="0" y="0" radius="1.778" width="0.1524" layer="21"/>
+<circle x="-2.159" y="-2.159" radius="0.508" width="0.1524" layer="51"/>
+<circle x="2.159" y="-2.032" radius="0.508" width="0.1524" layer="51"/>
+<circle x="2.159" y="2.159" radius="0.508" width="0.1524" layer="51"/>
+<circle x="-2.159" y="2.159" radius="0.508" width="0.1524" layer="51"/>
+<circle x="0" y="0" radius="0.635" width="0.0508" layer="51"/>
+<circle x="0" y="0" radius="0.254" width="0.1524" layer="21"/>
+<pad name="1" x="-3.2512" y="2.2606" drill="1.016" shape="long"/>
+<pad name="3" x="-3.2512" y="-2.2606" drill="1.016" shape="long"/>
+<pad name="2" x="3.2512" y="2.2606" drill="1.016" shape="long"/>
+<pad name="4" x="3.2512" y="-2.2606" drill="1.016" shape="long"/>
+<text x="-3.048" y="3.683" size="1.27" layer="25" ratio="10">&gt;NAME</text>
+<text x="-3.048" y="-5.08" size="1.27" layer="27" ratio="10">&gt;VALUE</text>
+<text x="-4.318" y="1.651" size="1.27" layer="51" ratio="10">1</text>
+<text x="3.556" y="1.524" size="1.27" layer="51" ratio="10">2</text>
+<text x="-4.572" y="-2.794" size="1.27" layer="51" ratio="10">3</text>
+<text x="3.556" y="-2.794" size="1.27" layer="51" ratio="10">4</text>
+</package>
 </packages>
 <packages3d>
 <package3d name="B3F-40XX" urn="urn:adsk.eagle:package:27483/1" type="box" library_version="2">
 <description>OMRON SWITCH</description>
 <packageinstances>
 <packageinstance name="B3F-40XX"/>
+</packageinstances>
+</package3d>
+<package3d name="B3F-10XX" urn="urn:adsk.eagle:package:27496/1" type="box" library_version="3">
+<description>OMRON SWITCH</description>
+<packageinstances>
+<packageinstance name="B3F-10XX"/>
 </packageinstances>
 </package3d>
 </packages3d>
@@ -548,7 +617,7 @@ Each pin can provide or receive a maximum of 40 mA and has an internal pull-up r
 </symbol>
 </symbols>
 <devicesets>
-<deviceset name="40-XX" urn="urn:adsk.eagle:component:27497/1" prefix="S" uservalue="yes" library_version="2">
+<deviceset name="40-XX" urn="urn:adsk.eagle:component:27497/2" prefix="S" uservalue="yes" library_version="3">
 <description>&lt;b&gt;OMRON SWITCH&lt;/b&gt;</description>
 <gates>
 <gate name="1" symbol="TS2" x="0" y="0"/>
@@ -570,6 +639,35 @@ Each pin can provide or receive a maximum of 40 mA and has an internal pull-up r
 <attribute name="MPN" value="B3F-4000" constant="no"/>
 <attribute name="OC_FARNELL" value="176434" constant="no"/>
 <attribute name="OC_NEWARK" value="36K3105" constant="no"/>
+<attribute name="POPULARITY" value="5" constant="no"/>
+</technology>
+</technologies>
+</device>
+</devices>
+</deviceset>
+<deviceset name="10-XX" urn="urn:adsk.eagle:component:27498/2" prefix="S" uservalue="yes" library_version="3">
+<description>&lt;b&gt;OMRON SWITCH&lt;/b&gt;</description>
+<gates>
+<gate name="1" symbol="TS2" x="0" y="0"/>
+</gates>
+<devices>
+<device name="" package="B3F-10XX">
+<connects>
+<connect gate="1" pin="P" pad="3"/>
+<connect gate="1" pin="P1" pad="4"/>
+<connect gate="1" pin="S" pad="1"/>
+<connect gate="1" pin="S1" pad="2"/>
+</connects>
+<package3dinstances>
+<package3dinstance package3d_urn="urn:adsk.eagle:package:27496/1"/>
+</package3dinstances>
+<technologies>
+<technology name="">
+<attribute name="MF" value="" constant="no"/>
+<attribute name="MPN" value="B3F-1000" constant="no"/>
+<attribute name="OC_FARNELL" value="176432" constant="no"/>
+<attribute name="OC_NEWARK" value="36M3542" constant="no"/>
+<attribute name="POPULARITY" value="72" constant="no"/>
 </technology>
 </technologies>
 </device>
@@ -5617,27 +5715,26 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 </classes>
 <parts>
 <part name="ARDUINO_NANO1" library="ArduinoNanoV30" deviceset="ARDUINO_NANO" device=""/>
-<part name="S2" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
-<part name="S3" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
 <part name="S1" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
 <part name="P+2" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
 <part name="GND1" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="H1" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-PAD-ROUND" device="4.1" package3d_urn="urn:adsk.eagle:package:14285/1"/>
 <part name="H2" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-PAD-ROUND" device="4.1" package3d_urn="urn:adsk.eagle:package:14285/1"/>
 <part name="H3" library="holes" library_urn="urn:adsk.eagle:library:237" deviceset="MOUNT-PAD-ROUND" device="4.1" package3d_urn="urn:adsk.eagle:package:14285/1"/>
-<part name="S4" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
-<part name="S5" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
-<part name="S6" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
-<part name="S7" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
-<part name="S8" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
-<part name="S9" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
-<part name="S10" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
-<part name="S11" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="40-XX" device="" package3d_urn="urn:adsk.eagle:package:27483/1"/>
 <part name="Q1" library="MPSA42" deviceset="MPSA42" device=""/>
 <part name="R4" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0204/2V" package3d_urn="urn:adsk.eagle:package:23495/1"/>
 <part name="TM2" library="Bourns PTA series" deviceset="TRIM" device="SLIDE75"/>
 <part name="TM3" library="Bourns PTA series" deviceset="TRIM" device="SLIDE75"/>
 <part name="R1" library="rcl" library_urn="urn:adsk.eagle:library:334" deviceset="R-EU_" device="0204/2V" package3d_urn="urn:adsk.eagle:package:23495/1"/>
+<part name="S2" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1"/>
+<part name="S3" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1"/>
+<part name="S4" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1"/>
+<part name="S5" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1"/>
+<part name="S6" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1"/>
+<part name="S7" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1"/>
+<part name="S8" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1"/>
+<part name="S9" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1"/>
+<part name="S10" library="switch-omron" library_urn="urn:adsk.eagle:library:377" deviceset="10-XX" device="" package3d_urn="urn:adsk.eagle:package:27496/1"/>
 </parts>
 <sheets>
 <sheet>
@@ -5647,14 +5744,6 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <instance part="ARDUINO_NANO1" gate="G$1" x="43.18" y="68.58" smashed="yes">
 <attribute name="NAME" x="27.94" y="38.1" size="1.778" layer="95"/>
 <attribute name="VALUE" x="27.94" y="35.56" size="1.778" layer="96"/>
-</instance>
-<instance part="S2" gate="1" x="83.82" y="81.28" smashed="yes" rot="R270">
-<attribute name="NAME" x="81.28" y="87.63" size="1.778" layer="95"/>
-<attribute name="VALUE" x="86.995" y="85.09" size="1.778" layer="96"/>
-</instance>
-<instance part="S3" gate="1" x="83.82" y="68.58" smashed="yes" rot="R270">
-<attribute name="NAME" x="81.28" y="74.93" size="1.778" layer="95"/>
-<attribute name="VALUE" x="86.995" y="72.39" size="1.778" layer="96"/>
 </instance>
 <instance part="S1" gate="1" x="-25.4" y="88.9" smashed="yes" rot="R270">
 <attribute name="NAME" x="-27.94" y="95.25" size="1.778" layer="95"/>
@@ -5678,38 +5767,6 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <attribute name="NAME" x="-30.226" y="48.8442" size="1.778" layer="95"/>
 <attribute name="VALUE" x="-30.226" y="45.7962" size="1.778" layer="96"/>
 </instance>
-<instance part="S4" gate="1" x="83.82" y="55.88" smashed="yes" rot="R270">
-<attribute name="NAME" x="81.28" y="62.23" size="1.778" layer="95"/>
-<attribute name="VALUE" x="86.995" y="59.69" size="1.778" layer="96"/>
-</instance>
-<instance part="S5" gate="1" x="83.82" y="43.18" smashed="yes" rot="R270">
-<attribute name="NAME" x="81.28" y="49.53" size="1.778" layer="95"/>
-<attribute name="VALUE" x="86.995" y="46.99" size="1.778" layer="96"/>
-</instance>
-<instance part="S6" gate="1" x="83.82" y="30.48" smashed="yes" rot="R270">
-<attribute name="NAME" x="81.28" y="36.83" size="1.778" layer="95"/>
-<attribute name="VALUE" x="86.995" y="34.29" size="1.778" layer="96"/>
-</instance>
-<instance part="S7" gate="1" x="101.6" y="81.28" smashed="yes" rot="R270">
-<attribute name="NAME" x="99.06" y="87.63" size="1.778" layer="95"/>
-<attribute name="VALUE" x="104.775" y="85.09" size="1.778" layer="96"/>
-</instance>
-<instance part="S8" gate="1" x="101.6" y="68.58" smashed="yes" rot="R270">
-<attribute name="NAME" x="99.06" y="74.93" size="1.778" layer="95"/>
-<attribute name="VALUE" x="104.775" y="72.39" size="1.778" layer="96"/>
-</instance>
-<instance part="S9" gate="1" x="109.22" y="55.88" smashed="yes" rot="R270">
-<attribute name="NAME" x="106.68" y="62.23" size="1.778" layer="95"/>
-<attribute name="VALUE" x="112.395" y="59.69" size="1.778" layer="96"/>
-</instance>
-<instance part="S10" gate="1" x="109.22" y="43.18" smashed="yes" rot="R270">
-<attribute name="NAME" x="106.68" y="49.53" size="1.778" layer="95"/>
-<attribute name="VALUE" x="112.395" y="46.99" size="1.778" layer="96"/>
-</instance>
-<instance part="S11" gate="1" x="109.22" y="30.48" smashed="yes" rot="R270">
-<attribute name="NAME" x="106.68" y="36.83" size="1.778" layer="95"/>
-<attribute name="VALUE" x="112.395" y="34.29" size="1.778" layer="96"/>
-</instance>
 <instance part="Q1" gate="G$1" x="127" y="12.7" smashed="yes" rot="R180">
 <attribute name="NAME" x="137.1759" y="5.068109375" size="1.78076875" layer="95" rot="R180"/>
 <attribute name="VALUE" x="137.1758" y="7.61211875" size="1.780759375" layer="96" rot="R180"/>
@@ -5729,6 +5786,42 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <instance part="R1" gate="G$1" x="147.32" y="2.54" smashed="yes" rot="R180">
 <attribute name="NAME" x="151.13" y="1.0414" size="1.778" layer="95" rot="R180"/>
 <attribute name="VALUE" x="151.13" y="5.842" size="1.778" layer="96" rot="R180"/>
+</instance>
+<instance part="S2" gate="1" x="83.82" y="83.82" smashed="yes" rot="R270">
+<attribute name="NAME" x="81.28" y="90.17" size="1.778" layer="95"/>
+<attribute name="VALUE" x="86.995" y="87.63" size="1.778" layer="96"/>
+</instance>
+<instance part="S3" gate="1" x="83.82" y="68.58" smashed="yes" rot="R270">
+<attribute name="NAME" x="81.28" y="74.93" size="1.778" layer="95"/>
+<attribute name="VALUE" x="86.995" y="72.39" size="1.778" layer="96"/>
+</instance>
+<instance part="S4" gate="1" x="83.82" y="43.18" smashed="yes" rot="R270">
+<attribute name="NAME" x="81.28" y="49.53" size="1.778" layer="95"/>
+<attribute name="VALUE" x="86.995" y="46.99" size="1.778" layer="96"/>
+</instance>
+<instance part="S5" gate="1" x="83.82" y="30.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="81.28" y="36.83" size="1.778" layer="95"/>
+<attribute name="VALUE" x="86.995" y="34.29" size="1.778" layer="96"/>
+</instance>
+<instance part="S6" gate="1" x="101.6" y="81.28" smashed="yes" rot="R270">
+<attribute name="NAME" x="99.06" y="87.63" size="1.778" layer="95"/>
+<attribute name="VALUE" x="104.775" y="85.09" size="1.778" layer="96"/>
+</instance>
+<instance part="S7" gate="1" x="101.6" y="68.58" smashed="yes" rot="R270">
+<attribute name="NAME" x="99.06" y="74.93" size="1.778" layer="95"/>
+<attribute name="VALUE" x="104.775" y="72.39" size="1.778" layer="96"/>
+</instance>
+<instance part="S8" gate="1" x="109.22" y="55.88" smashed="yes" rot="R270">
+<attribute name="NAME" x="106.68" y="62.23" size="1.778" layer="95"/>
+<attribute name="VALUE" x="112.395" y="59.69" size="1.778" layer="96"/>
+</instance>
+<instance part="S9" gate="1" x="109.22" y="43.18" smashed="yes" rot="R270">
+<attribute name="NAME" x="106.68" y="49.53" size="1.778" layer="95"/>
+<attribute name="VALUE" x="112.395" y="46.99" size="1.778" layer="96"/>
+</instance>
+<instance part="S10" gate="1" x="109.22" y="30.48" smashed="yes" rot="R270">
+<attribute name="NAME" x="106.68" y="36.83" size="1.778" layer="95"/>
+<attribute name="VALUE" x="112.395" y="34.29" size="1.778" layer="96"/>
 </instance>
 </instances>
 <busses>
@@ -5792,71 +5885,17 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <junction x="-17.78" y="5.08"/>
 <junction x="-17.78" y="17.78"/>
 <junction x="-27.94" y="17.78"/>
-<pinref part="S2" gate="1" pin="S"/>
-<wire x1="88.9" y1="81.28" x2="88.9" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="78.74" x2="88.9" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="68.58" x2="88.9" y2="66.04" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="66.04" x2="88.9" y2="55.88" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="55.88" x2="88.9" y2="53.34" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="53.34" x2="88.9" y2="43.18" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="43.18" x2="88.9" y2="40.64" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="40.64" x2="88.9" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="88.9" y1="30.48" x2="88.9" y2="27.94" width="0.1524" layer="91"/>
 <junction x="88.9" y="-12.7"/>
-<pinref part="S6" gate="1" pin="S"/>
-<junction x="88.9" y="30.48"/>
-<pinref part="S5" gate="1" pin="S"/>
-<junction x="88.9" y="43.18"/>
-<pinref part="S4" gate="1" pin="S"/>
-<junction x="88.9" y="55.88"/>
-<pinref part="S3" gate="1" pin="S"/>
-<junction x="88.9" y="68.58"/>
-<junction x="88.9" y="81.28"/>
-<pinref part="S7" gate="1" pin="S"/>
-<pinref part="S8" gate="1" pin="S"/>
-<wire x1="88.9" y1="27.94" x2="88.9" y2="-12.7" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="81.28" x2="106.68" y2="78.74" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="78.74" x2="106.68" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="106.68" y1="68.58" x2="114.3" y2="68.58" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="68.58" x2="114.3" y2="55.88" width="0.1524" layer="91"/>
 <junction x="114.3" y="-12.7"/>
-<pinref part="S11" gate="1" pin="S"/>
-<junction x="114.3" y="30.48"/>
-<wire x1="114.3" y1="55.88" x2="114.3" y2="53.34" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="53.34" x2="114.3" y2="43.18" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="43.18" x2="114.3" y2="40.64" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="40.64" x2="114.3" y2="30.48" width="0.1524" layer="91"/>
-<wire x1="114.3" y1="30.48" x2="114.3" y2="27.94" width="0.1524" layer="91"/>
-<pinref part="S10" gate="1" pin="S"/>
-<junction x="114.3" y="43.18"/>
-<pinref part="S9" gate="1" pin="S"/>
-<junction x="114.3" y="55.88"/>
-<junction x="106.68" y="68.58"/>
-<junction x="106.68" y="81.28"/>
-<wire x1="114.3" y1="27.94" x2="114.3" y2="-12.7" width="0.1524" layer="91"/>
 <junction x="170.18" y="20.32"/>
-<pinref part="S2" gate="1" pin="S1"/>
-<junction x="88.9" y="78.74"/>
-<pinref part="S3" gate="1" pin="S1"/>
-<junction x="88.9" y="66.04"/>
-<pinref part="S4" gate="1" pin="S1"/>
-<junction x="88.9" y="53.34"/>
-<pinref part="S5" gate="1" pin="S1"/>
-<junction x="88.9" y="40.64"/>
-<pinref part="S6" gate="1" pin="S1"/>
-<junction x="88.9" y="27.94"/>
-<pinref part="S7" gate="1" pin="S1"/>
-<junction x="106.68" y="78.74"/>
-<pinref part="S9" gate="1" pin="S1"/>
-<junction x="114.3" y="53.34"/>
-<pinref part="S10" gate="1" pin="S1"/>
-<junction x="114.3" y="40.64"/>
-<pinref part="S11" gate="1" pin="S1"/>
-<junction x="114.3" y="27.94"/>
 <pinref part="TM2" gate="G$1" pin="B"/>
 <pinref part="TM3" gate="G$1" pin="A"/>
 <wire x1="170.18" y1="20.32" x2="195.58" y2="20.32" width="0.1524" layer="91"/>
 <wire x1="195.58" y1="20.32" x2="195.58" y2="25.4" width="0.1524" layer="91"/>
+<wire x1="88.9" y1="27.94" x2="88.9" y2="-12.7" width="0.1524" layer="91"/>
+<pinref part="S5" gate="1" pin="S1"/>
+<wire x1="114.3" y1="27.94" x2="114.3" y2="-12.7" width="0.1524" layer="91"/>
+<pinref part="S10" gate="1" pin="S1"/>
 </segment>
 </net>
 <net name="N$5" class="0">
@@ -5866,16 +5905,14 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <wire x1="17.78" y1="68.58" x2="17.78" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="17.78" y1="93.98" x2="73.66" y2="93.98" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="93.98" x2="73.66" y2="68.58" width="0.1524" layer="91"/>
-<pinref part="S3" gate="1" pin="P"/>
 <wire x1="73.66" y1="68.58" x2="78.74" y2="68.58" width="0.1524" layer="91"/>
 <pinref part="ARDUINO_NANO1" gate="G$1" pin="D3"/>
 <junction x="22.86" y="68.58"/>
-<junction x="78.74" y="68.58"/>
+<pinref part="S3" gate="1" pin="P"/>
 </segment>
 </net>
 <net name="N$7" class="0">
 <segment>
-<pinref part="S5" gate="1" pin="P"/>
 <wire x1="78.74" y1="43.18" x2="73.66" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="43.18" x2="73.66" y2="33.02" width="0.1524" layer="91"/>
 <wire x1="73.66" y1="33.02" x2="20.32" y2="33.02" width="0.1524" layer="91"/>
@@ -5884,24 +5921,22 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <pinref part="ARDUINO_NANO1" gate="G$1" pin="D5"/>
 <wire x1="22.86" y1="63.5" x2="25.4" y2="63.5" width="0.1524" layer="91"/>
 <junction x="22.86" y="63.5"/>
-<junction x="78.74" y="43.18"/>
+<pinref part="S4" gate="1" pin="P"/>
 </segment>
 </net>
 <net name="N$8" class="0">
 <segment>
-<pinref part="S6" gate="1" pin="P"/>
 <wire x1="78.74" y1="30.48" x2="15.24" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="30.48" x2="15.24" y2="60.96" width="0.1524" layer="91"/>
 <wire x1="15.24" y1="60.96" x2="22.86" y2="60.96" width="0.1524" layer="91"/>
 <pinref part="ARDUINO_NANO1" gate="G$1" pin="D6"/>
 <wire x1="22.86" y1="60.96" x2="25.4" y2="60.96" width="0.1524" layer="91"/>
 <junction x="22.86" y="60.96"/>
-<junction x="78.74" y="30.48"/>
+<pinref part="S5" gate="1" pin="P"/>
 </segment>
 </net>
 <net name="N$6" class="0">
 <segment>
-<pinref part="S7" gate="1" pin="P"/>
 <wire x1="96.52" y1="81.28" x2="91.44" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="81.28" x2="91.44" y2="25.4" width="0.1524" layer="91"/>
 <wire x1="91.44" y1="25.4" x2="17.78" y2="25.4" width="0.1524" layer="91"/>
@@ -5910,12 +5945,11 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <pinref part="ARDUINO_NANO1" gate="G$1" pin="D7"/>
 <wire x1="22.86" y1="58.42" x2="25.4" y2="58.42" width="0.1524" layer="91"/>
 <junction x="22.86" y="58.42"/>
-<junction x="96.52" y="81.28"/>
+<pinref part="S6" gate="1" pin="P"/>
 </segment>
 </net>
 <net name="N$9" class="0">
 <segment>
-<pinref part="S8" gate="1" pin="P"/>
 <wire x1="96.52" y1="68.58" x2="93.98" y2="68.58" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="68.58" x2="93.98" y2="22.86" width="0.1524" layer="91"/>
 <wire x1="93.98" y1="22.86" x2="12.7" y2="22.86" width="0.1524" layer="91"/>
@@ -5924,12 +5958,11 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <pinref part="ARDUINO_NANO1" gate="G$1" pin="D8"/>
 <wire x1="22.86" y1="55.88" x2="25.4" y2="55.88" width="0.1524" layer="91"/>
 <junction x="22.86" y="55.88"/>
-<junction x="96.52" y="68.58"/>
+<pinref part="S7" gate="1" pin="P"/>
 </segment>
 </net>
 <net name="N$10" class="0">
 <segment>
-<pinref part="S9" gate="1" pin="P"/>
 <wire x1="104.14" y1="55.88" x2="96.52" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="96.52" y1="55.88" x2="96.52" y2="20.32" width="0.1524" layer="91"/>
 <wire x1="96.52" y1="20.32" x2="7.62" y2="20.32" width="0.1524" layer="91"/>
@@ -5938,12 +5971,11 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <pinref part="ARDUINO_NANO1" gate="G$1" pin="D9"/>
 <junction x="22.86" y="53.34"/>
 <wire x1="22.86" y1="53.34" x2="25.4" y2="53.34" width="0.1524" layer="91"/>
-<junction x="104.14" y="55.88"/>
+<pinref part="S8" gate="1" pin="P"/>
 </segment>
 </net>
 <net name="N$11" class="0">
 <segment>
-<pinref part="S10" gate="1" pin="P"/>
 <wire x1="104.14" y1="43.18" x2="99.06" y2="43.18" width="0.1524" layer="91"/>
 <wire x1="99.06" y1="43.18" x2="99.06" y2="12.7" width="0.1524" layer="91"/>
 <wire x1="99.06" y1="12.7" x2="5.08" y2="12.7" width="0.1524" layer="91"/>
@@ -5952,12 +5984,11 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <pinref part="ARDUINO_NANO1" gate="G$1" pin="D10"/>
 <junction x="22.86" y="50.8"/>
 <wire x1="22.86" y1="50.8" x2="25.4" y2="50.8" width="0.1524" layer="91"/>
-<junction x="104.14" y="43.18"/>
+<pinref part="S9" gate="1" pin="P"/>
 </segment>
 </net>
 <net name="N$12" class="0">
 <segment>
-<pinref part="S11" gate="1" pin="P"/>
 <wire x1="104.14" y1="30.48" x2="101.6" y2="30.48" width="0.1524" layer="91"/>
 <wire x1="101.6" y1="30.48" x2="101.6" y2="10.16" width="0.1524" layer="91"/>
 <wire x1="101.6" y1="10.16" x2="0" y2="10.16" width="0.1524" layer="91"/>
@@ -5966,13 +5997,11 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <pinref part="ARDUINO_NANO1" gate="G$1" pin="D11"/>
 <junction x="22.86" y="48.26"/>
 <wire x1="22.86" y1="48.26" x2="25.4" y2="48.26" width="0.1524" layer="91"/>
-<junction x="104.14" y="30.48"/>
+<pinref part="S10" gate="1" pin="P"/>
 </segment>
 </net>
 <net name="N$13" class="0">
 <segment>
-<pinref part="S2" gate="1" pin="P"/>
-<junction x="78.74" y="81.28"/>
 <wire x1="76.2" y1="81.28" x2="78.74" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="76.2" y1="99.06" x2="76.2" y2="81.28" width="0.1524" layer="91"/>
 <wire x1="12.7" y1="99.06" x2="76.2" y2="99.06" width="0.1524" layer="91"/>
@@ -5980,19 +6009,17 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <wire x1="25.4" y1="71.12" x2="22.86" y2="71.12" width="0.1524" layer="91"/>
 <pinref part="ARDUINO_NANO1" gate="G$1" pin="D2"/>
 <wire x1="12.7" y1="71.12" x2="22.86" y2="71.12" width="0.1524" layer="91"/>
+<pinref part="S2" gate="1" pin="P1"/>
 </segment>
 </net>
 <net name="N$14" class="0">
 <segment>
-<pinref part="S4" gate="1" pin="P"/>
-<junction x="78.74" y="55.88"/>
 <wire x1="78.74" y1="55.88" x2="71.12" y2="55.88" width="0.1524" layer="91"/>
 <wire x1="71.12" y1="55.88" x2="71.12" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="71.12" y1="91.44" x2="20.32" y2="91.44" width="0.1524" layer="91"/>
 <wire x1="20.32" y1="91.44" x2="20.32" y2="66.04" width="0.1524" layer="91"/>
 <pinref part="ARDUINO_NANO1" gate="G$1" pin="D4"/>
-<wire x1="22.86" y1="66.04" x2="25.4" y2="66.04" width="0.1524" layer="91"/>
-<wire x1="25.4" y1="66.04" x2="27.94" y2="66.04" width="0.1524" layer="91"/>
+<wire x1="22.86" y1="66.04" x2="27.94" y2="66.04" width="0.1524" layer="91"/>
 <wire x1="20.32" y1="66.04" x2="22.86" y2="66.04" width="0.1524" layer="91"/>
 </segment>
 </net>
@@ -6076,6 +6103,58 @@ For Bourns PTA series and TT Electronics PSxx series potentiometers.</descriptio
 <wire x1="205.74" y1="-30.48" x2="205.74" y2="33.02" width="0.1524" layer="91"/>
 <pinref part="TM3" gate="G$1" pin="WIPER"/>
 <wire x1="205.74" y1="33.02" x2="200.66" y2="33.02" width="0.1524" layer="91"/>
+</segment>
+</net>
+<net name="N$20" class="0">
+<segment>
+<pinref part="S2" gate="1" pin="S1"/>
+<wire x1="88.9" y1="81.28" x2="88.9" y2="68.58" width="0.1524" layer="91"/>
+<pinref part="S3" gate="1" pin="S"/>
+</segment>
+</net>
+<net name="N$21" class="0">
+<segment>
+<pinref part="S3" gate="1" pin="S1"/>
+<wire x1="88.9" y1="66.04" x2="88.9" y2="43.18" width="0.1524" layer="91"/>
+<pinref part="S4" gate="1" pin="S"/>
+</segment>
+</net>
+<net name="N$22" class="0">
+<segment>
+<pinref part="S4" gate="1" pin="S1"/>
+<wire x1="88.9" y1="40.64" x2="88.9" y2="30.48" width="0.1524" layer="91"/>
+<pinref part="S5" gate="1" pin="S"/>
+</segment>
+</net>
+<net name="N$23" class="0">
+<segment>
+<wire x1="106.68" y1="81.28" x2="106.68" y2="80.0862" width="0.1524" layer="91"/>
+<pinref part="S6" gate="1" pin="S"/>
+</segment>
+</net>
+<net name="N$24" class="0">
+<segment>
+<pinref part="S6" gate="1" pin="S1"/>
+<wire x1="106.68" y1="78.74" x2="106.68" y2="68.58" width="0.1524" layer="91"/>
+<pinref part="S7" gate="1" pin="S"/>
+<junction x="106.68" y="68.58"/>
+<wire x1="106.68" y1="68.58" x2="114.3" y2="68.58" width="0.1524" layer="91"/>
+<wire x1="114.3" y1="68.58" x2="114.3" y2="55.88" width="0.1524" layer="91"/>
+<pinref part="S8" gate="1" pin="S"/>
+</segment>
+</net>
+<net name="N$25" class="0">
+<segment>
+<pinref part="S8" gate="1" pin="S1"/>
+<wire x1="114.3" y1="53.34" x2="114.3" y2="43.18" width="0.1524" layer="91"/>
+<pinref part="S9" gate="1" pin="S"/>
+</segment>
+</net>
+<net name="N$26" class="0">
+<segment>
+<pinref part="S9" gate="1" pin="S1"/>
+<wire x1="114.3" y1="40.64" x2="114.3" y2="30.48" width="0.1524" layer="91"/>
+<pinref part="S10" gate="1" pin="S"/>
 </segment>
 </net>
 </nets>
