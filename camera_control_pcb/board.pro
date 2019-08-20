@@ -2,26 +2,24 @@ EAGLE AutoRouter Statistics:
 
 Job           : C:/Users/include4eto/Documents/GitHub/camera_pcb/camera_control_pcb/board.brd
 
-Start at      : 12:36:46 (7/7/2019)
-End at        : 12:37:12 (7/7/2019)
-Elapsed time  : 00:00:07
+Start at      : 11:36:16 (8/20/2019)
+End at        : 11:36:53 (8/20/2019)
+Elapsed time  : 00:00:16
 
-Signals       :    15   RoutingGrid: 6 mil  Layers: 2
-Connections   :    13   predefined:  0 ( 0 Vias )
+Signals       :    19   RoutingGrid: 25 mil  Layers: 2
+Connections   :    45   predefined:  0 ( 0 Vias )
 
-Router memory :   2810048
+Router memory :   579852
 
-Job has been interrupted!
+Passname          :    Busses     Route Optimize1 Optimize2 Optimize3 Optimize4
 
-Passname          : TopRouter     Route Optimize1
+Time per pass     :  00:00:00  00:00:05  00:00:03  00:00:03  00:00:02  00:00:03
+Number of Ripups  :         0         0         0         0         0         0
+max. Level        :         0         1         0         0         0         0
+max. Total        :         0         0         0         0         0         0
 
-Time per pass     :  00:00:06  00:00:00  00:00:01
-Number of Ripups  :         0         0         0
-max. Level        :         0         0         0
-max. Total        :         0         0         0
+Routed            :        14        39        39        39        39        39
+Vias              :         0        59        18         6         1         3
+Resolution        :    31.1 %    86.7 %    86.7 %    86.7 %    86.7 %    86.7 %
 
-Routed            :        13        13        13
-Vias              :         0         0         0
-Resolution        :   100.0 %   100.0 %   100.0 %
-
-Final             : 100.0% finished
+Final             : 86.7% finished
