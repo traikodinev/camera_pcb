@@ -7,7 +7,7 @@
         "EN": "EAGLE default single layer CAM job."
     },
     "job_prefix": "job_outputs",
-    "output_type": "directory",
+    "output_type": "zip",
     "outputs": [
         {
             "filename_prefix": "CAMOutputs/GerberFiles",
