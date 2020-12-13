@@ -1,4 +1,4 @@
-Partlist exported from /fast_storage/projects/edinburgh/camera_pcb/pcb.reduced/board.sch at 11/12/2020 12:54
+Partlist exported from /fast_storage/projects/edinburgh/camera_pcb/pcb.reduced/board.sch at 13/12/2020 19:38
 
 Qty Value  Device       Package      Parts                                                    Description               AVAILABILITY DESCRIPTION             MF                        MP                        MPN                                            OC_FARNELL            OC_NEWARK PACKAGE POPULARITY PRICE SPICEPREFIX    
 8          1,6/0,8      1,6/0,8      CAM/PIN1, CAM/PIN2, CAM/PIN6, GND, POT1, POT2, POT3, PWR THROUGH-HOLE PAD                                                                                                                                                                                                                          

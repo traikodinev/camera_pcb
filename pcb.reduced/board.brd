@@ -85,7 +85,7 @@
 <dimension x1="127" y1="102.87" x2="0" y2="102.87" x3="63.5" y3="111.76" textsize="1.778" layer="19"/>
 <dimension x1="128.27" y1="101.6" x2="128.27" y2="0" x3="139.7" y3="50.8" textsize="1.778" layer="19"/>
 <dimension x1="28.5" y1="64.5" x2="68" y2="64.5" x3="48.25" y3="106" textsize="1.778" layer="19"/>
-<hole x="66" y="88" drill="15"/>
+<hole x="66" y="86" drill="15"/>
 </plain>
 <libraries>
 <library name="ArduinoNanoV30">
